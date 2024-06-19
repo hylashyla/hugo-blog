@@ -1,4 +1,4 @@
-baseURL: "https://hylashyla.github.io/hugo-blog-client/"
+baseURL: "https://hylashyla.github.io/hugo-blog/"
 title: blog
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
