@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hylashyla.github.io/hugo-blog-client/sitemap.xml
